@@ -1,0 +1,154 @@
+/* Lato CSS File
+	For using the complete Lato font family in webpages
+	Jatsby Framework v0.3
+	Released October 22, 2014 under the MIT License
+	Copyright 2014 Jatsby 
+	Lato is a copyright of Łukasz Dziedzic and is 
+	available for use under the SIL Open Font License 1.1 
+*/
+
+
+
+/* Lato 100 */
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 100;
+  src: local('Lato Hairline'), local('Lato-Hairline'), url(http://jatsby.com/fonts/lato/Lato-Ultralight.woff) format('woff');
+}
+
+/* Lato 100 (Italic) */
+@font-face {
+  font-family: 'Lato';
+  font-style: italic;
+  font-weight: 100;
+  src: local('Lato Hairline Italic'), local('Lato-HairlineItalic'), url(http://jatsby.com/fonts/lato/Lato-UltraLightItalic.woff) format('woff');
+}
+
+/* Lato 200 */
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 200;
+  src: local('Lato Thin'), local('Lato-Thin'), url(http://jatsby.com/fonts/lato/Lato-Thin.woff) format('woff');
+}
+
+/* Lato 200 (Italic) */
+@font-face {
+  font-family: 'Lato';
+  font-style: italic;
+  font-weight: 200;
+  src: local('Lato Thin Italic'), local('Lato-ThinItalic'), url(http://jatsby.com/fonts/lato/Lato-ThinItalic.woff) format('woff');
+}
+
+/* Lato 300 */
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 300;
+  src: local('Lato Light'), local('Lato-Light'), url(http://jatsby.com/fonts/lato/Lato-Light.woff) format('woff');
+}
+
+/* Lato 300 (Italic) */
+@font-face {
+  font-family: 'Lato';
+  font-style: italic;
+  font-weight: 300;
+  src: local('Lato Light Italic'), local('Lato-LightItalic'), url(http://jatsby.com/fonts/lato/Lato-LightItalic.woff) format('woff');
+}
+
+/* Lato 400 */
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Lato Regular'), local('Lato-Regular'), url(http://jatsby.com/fonts/lato/Lato-Regular.woff) format('woff');
+}
+
+/* Lato 400 (Italic) */
+@font-face {
+  font-family: 'Lato';
+  font-style: italic;
+  font-weight: 400;
+  src: local('Lato Italic'), local('Lato-Italic'), url(http://jatsby.com/fonts/lato/Lato-RegularItalic.woff) format('woff');
+}
+
+/* Lato 500 */
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 500;
+  src: local('Lato Medium'), local('Lato-Medium'), url("http://jatsby.com/fonts/lato/Lato-Medium.woff") format('woff');
+}
+
+/* Lato 500 (Italic) */
+@font-face {
+  font-family: 'Lato';
+  font-style: italic;
+  font-weight: 500;
+  src: local('Lato Medium Italic'), local('Lato-MediumItalic'), url(http://jatsby.com/fonts/lato/Lato-MediumItalic.woff) format('woff');
+}
+
+/* Lato 600 */
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 600;
+  src: local('Lato Semibold'), local('Lato-Semibold'), url(http://jatsby.com/fonts/lato/Lato-Bold.woff) format('woff');
+}
+
+/* Lato 600 (Italic) */
+@font-face {
+  font-family: 'Lato';
+  font-style: italic;
+  font-weight: 600;
+  src: local('Lato Semibold Italic'), local('Lato-SemiboldItalic'), url(http://jatsby.com/fonts/lato/Lato-BoldItalic.woff) format('woff');
+}
+
+/* Lato 700 */
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Lato Bold'), local('Lato-Bold'), url(http://jatsby.com/fonts/lato/Lato-700.woff) format('woff');
+}
+
+/* Lato 700 (Italic) */
+@font-face {
+  font-family: 'Lato';
+  font-style: italic;
+  font-weight: 700;
+  src: local('Lato Bold Italic'), local('Lato-BoldItalic'), url(http://jatsby.com/fonts/lato/Lato-700Italic.woff) format('woff');
+}
+
+/* Lato 800 */
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 800;
+  src: local('Lato Heavy'), local('Lato-Heavy'), url(http://jatsby.com/fonts/lato/Lato-800.woff) format('woff');
+}
+
+/* Lato 800 (Italic) */
+@font-face {
+  font-family: 'Lato';
+  font-style: italic;
+  font-weight: 800;
+  src: local('Lato Heavy Italic'), local('Lato-Heavy'), url(http://jatsby.com/fonts/lato/Lato-800Italic.woff) format('woff');
+}
+
+/* Lato 900 */
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 900;
+  src: local('Lato Black'), local('Lato-Black'), url(http://jatsby.com/fonts/lato/Lato-900.woff) format('woff');
+}
+
+/* Lato 900 (Italic) */
+@font-face {
+  font-family: 'Lato';
+  font-style: italic;
+  font-weight: 900;
+  src: local('Lato Black Italic'), local('Lato-BlackItalic'), url(http://jatsby.com/fonts/lato/Lato-900Italic.woff) format('woff');
+}

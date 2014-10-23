@@ -1,0 +1,94 @@
+-----------------------------
+Jatsby Framework
+v0.1
+September 22, 2014
+Copyright 2014 James Spinella
+-----------------------------
+
+--------------
+v0.3 Changelog
+--------------
+
+- The first public release!
+
+- Establishes file layout
+	- jatsby_v0.3.zip
+		- index.html
+		- mobile.css
+		- tablet.css
+		- desktop.css
+
+- Template site (with barebones HTML and CSS for immediate use in a web project)
+- Eliminates module CSS files temporarily (for extended tweaking)
+- lato.css file for using the complete Lato font family (weights 100-900) via @font-face
+
+
+-----------
+	Hey!
+-----------
+
+Welcome to the info text file for the Jatsby (Web) Framework!
+Here's the gist:
+
+Jatsby, like Foundation, PureCSS, and Bootstrap, is an outline of sorts for people to make awesome websites with.
+What makes Jatsby different from the others is that maximum compatibility with web browsers and operating systems isn't really on top of the priority list.
+What *is* on the top is compatibility with screen sizes. Screen size information was gathered for today's most-popular devices to determine the best possible
+	breakpoints for the best experience possible.
+Jatsby doesn't use a grid system, and has three CSS files, fewer than virtually every web framework out there, and they of course each have their purpose:
+
+----------
+mobile.css
+----------
+- 300px - 599px
+- Covers: iPhone, Nexus 5, virtually all smartphones at least in portrait view
+
+----------
+tablet.css
+----------
+- 600px - 899px
+- Covers: iPad (inc. Air, Mini), Nexus 7, Nexus 10, virtually all tablets in portrait view
+
+
+-----------
+desktop.css
+-----------
+- 900px - 1200px & 1201px +
+- two breakpoints (900+, 1201+)
+	- Tablet Landscape
+		- Covers: iPad (inc. Air, Mini), Nexus 7, Nexus 10, virtually all tablets in landscape view
+		- Also Covers: MacBook Pro 13", Surface Pro 3, virtually all laptop and desktop computers
+	- Desktop
+		- For desktop-specific CSS
+		- ie, :hover effects, sidebars
+		- While many desktop and laptop computers these days have touch screens, mouse input still exists!
+
+
+------------------
+	The Future
+------------------
+
+This section of the info.txt is for taking note of some expected future changes to the Jatsby Framework.
+
+By version 1.0, we expect to have all of our CSS "modules" (pre-made code for things like buttons) completed and bundled with Jatsby.
+We also expect to have a *much* better website (http://jatsby.com) as we find more time to work on it so that it better-showcases
+what the Jatsby Framework can do.
+
+Here's a list of some of the modules we're working on:
+
+- buttons
+- headers
+- footers
+- graphs
+- "sections" (more on this later)
+
+We encourage you to be active in the development of Jatsby by helping us find "bugs" (we know, it's technically not programming...), making
+suggestions, or just saying hello! We do ask that you remember this is a beta release, and that there's sure to be some "stupid" mistakes.
+Go easy on us!
+
+hey@jatsby.com
+
+
+
+
+
+

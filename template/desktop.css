@@ -1,0 +1,31 @@
+/* Desktop CSS
+   Jatsby Framework v0.3
+   Released October 22, 2014 under the MIT License
+   Copyright 2014 Jatsby 
+*/
+
+
+/*===== Tablet Landscape Breakboint =====*/
+/* 900px- 1200px						 */
+/* For tablets in landscape	 			 */			
+/* iPad, Nexus 7, Nexus 10, Surface Pro	 */					
+/*=======================================*/
+
+@media (min-width: 900px)	{
+
+
+
+}
+
+
+/*========== Desktop Breakboint =========*/
+/* 1201px+								 */
+/* For full-size computers				 */
+/* MacBook Pro, iMac					 */
+/*=======================================*/
+
+@media (min-width: 1201px)	{
+
+
+
+}
