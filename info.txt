@@ -1,9 +1,8 @@
------------------------------
-Jatsby Framework
-v0.1
-September 22, 2014
-Copyright 2014 James Spinella
------------------------------
+------------------------------------------------
+Jatsby Framework v0.3
+Released October 22, 2014 Under the MIT License
+Copyright 2014 Jatsby
+------------------------------------------------
 
 --------------
 v0.3 Changelog
