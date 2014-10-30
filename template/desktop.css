@@ -1,11 +1,11 @@
 /* Desktop CSS
-   Jatsby Framework v0.3
-   Released October 22, 2014 under the MIT License
+   Jatsby Framework v0.4
+   Released October 30, 2014 under the MIT License
    Copyright 2014 Jatsby 
 */
 
 
-/*===== Tablet Landscape Breakboint =====*/
+/*===== Tablet Landscape Breakpoint =====*/
 /* 900px- 1200px						 */
 /* For tablets in landscape	 			 */			
 /* iPad, Nexus 7, Nexus 10, Surface Pro	 */					
@@ -18,12 +18,15 @@
 }
 
 
-/*========== Desktop Breakboint =========*/
+/*========== Desktop Breakpoint =========*/
 /* 1201px+								 */
 /* For full-size computers				 */
 /* MacBook Pro, iMac					 */
 /*=======================================*/
 
+/* Switch from 1201px to 0px for testing
+	or to "disable" Desktop breakpoint */	
+/*@media (min-width: 0px)*/
 @media (min-width: 1201px)	{
 
 

@@ -1,11 +1,41 @@
 /* Mobile CSS
-   Jatsby Framework v0.3
-   Released October 22, 2014 under the MIT License
+   Jatsby Framework v0.4
+   Released October 30, 2014 under the MIT License
    Copyright 2014 Jatsby 
 */
 
+/*================ Fonts ================*/
+/* Declare or import all fonts here		 */
+/*=======================================*/
 
-/*=========== Mobile Breakboint =========*/
+@charset "UTF-8";
+
+/* Lobster 400; normal */
+@import url("http://fonts.googleapis.com/css?family=Lobster");
+
+/* Lato 100-900; normal, italic */
+@import url("http://jatsby.com/lato.css");
+
+
+/*=============== Reset =================*/
+/* Simple reset parameters				 */
+/* Also for custom global declarations	 */
+/* (ie, ".roboto" for 					 */
+/* font-family:Roboto;					 */
+/*=======================================*/
+
+*	{
+	padding:0;
+	margin:0 auto;
+	-webkit-font-smoothing:antialiased;
+	-webkit-text-size-adjust: 100%;
+	/* a */
+	text-decoration: none;
+	color:inherit;
+}
+
+
+/*========== Mobile Breakpoint ==========*/
 /* 300px- 599px							 */
 /* For small devices					 */
 /* iPhone, iPod Touch, Nexus 5			 */
