@@ -1,4 +1,5 @@
 The Jatsby Web Framework
+<<<<<<< HEAD
 ========================
 
 About
@@ -14,3 +15,8 @@ Inside Jatsby
 Inside Jatsby, you'll find three folders: docs, extras and website. As you might have guessed, "docs" is where you'll find, well, *docs*! This includes licenses and eventually, that website guide. The "extras" folder is where you'll (in a future release) find some pre-made goodies, like buttons, headers and even graphs- all made with pure CSS. It's the other part of the framework, but it's not quite ready yet, and so far it only has the Lato font family, Jatsby's "signature font". As for "website", that's where you'll find the one HTML and three CSS files that will eventually become your website! It's responsive and ready for your code!
 
 The idea is that you'll one day be able to bring code from "extras" into your website in the "website" folder, and then simply move and rename the website folder for use with Apache, etc.
+=======
+
+
+A collection of files for creating beautiful webpages, designed to be simple for both the coder and the user. It's a pure CSS framework, with emphasis on support for Safari (and basic support for FireFox, Chrome and IE) made to help beginniners to web design advance their knowledge and get their first websites off the ground- also great for experienced web designers!
+>>>>>>> FETCH_HEAD
