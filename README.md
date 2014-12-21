@@ -3,11 +3,11 @@ The Jatsby Web Framework
 
 About
 ------
-The Jatsby Website Framework is a simple way to create webpages and websites. It's a pure website framework, so unlike Bootstrap or Skel, it doesn't use JavaScript or jQuery *at all*. And with one HTML file and three CSS files, Jatsby makes the perfect framework for those just starting out with web design.
+The Jatsby Website Framework is a simple way to create webpages and websites. It's a pure CSS website framework, so unlike Bootstrap or Skel, it doesn't use JavaScript or jQuery *at all*. And with one HTML file and three CSS files, Jatsby makes the perfect framework for those just starting out with web design.
 
 Speaking of those just starting out...
 --------------------------------------
-In progress is a simple website guide to help get your website off the ground. No ETA, unfortunately, but it'll likely be out before 2015!
+In progress is a simple website guide to help get your website off the ground. No ETA, unfortunately, but it'll likely be out by early 2015!
 
 Inside Jatsby
 -------------
