@@ -1,8 +1,9 @@
-/* Mobile CSS
-   Jatsby Framework v0.5
+/* 
+   Mobile CSS
+   Jatsby Framework v0.5.1
    Originally Released October 22, 2014 
     under the MIT License
-   Updated December 15, 2014
+   Updated December 21, 2014
    Copyright 2014 Jatsby 
 */
 
@@ -14,6 +15,9 @@
 
 /* Lobster 400; normal */
 @import url("http://fonts.googleapis.com/css?family=Lobster");
+
+/* Lato 100-900; normal, italic */
+@import url("http://jatsby.com/lato.css");
 
 
 /*=============== Reset =================*/
