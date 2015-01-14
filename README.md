@@ -1,16 +1,38 @@
 The Jatsby Web Framework
 ========================
+Jatsby is a minimalist CSS framwork for creating elegant webpages and experimenting with your latest designs. When you have an idea for a button, simply open index.html and jatsby.css and start coding! All the necessities are already there.
 
-About
-------
-The Jatsby Website Framework is a simple way to create webpages and websites. It's a pure CSS website framework, so unlike Bootstrap or Skel, it doesn't use JavaScript or jQuery *at all*. And with one HTML file and three CSS files, Jatsby makes the perfect framework for those just starting out with web design.
+Breakpoints
+------------
+jatsby.css includes four simple breakpoints for making your website responsive. And if responsive isn't on the agenda, simply stick to the mobile breakpoint.
 
-Speaking of those just starting out...
---------------------------------------
-In progress is a simple website guide to help get your website off the ground. No ETA, unfortunately, but it'll likely be out by early 2015!
+mobile: 300px- 599px
+tablet: 600px- 899px
+tablet-wide: 900px-1200px
+desktop: 1201px+
 
-Inside Jatsby
--------------
-Inside Jatsby, you'll find three folders: docs, extras and template. As you might have guessed, "docs" is where you'll find, well, *docs*! This includes licenses and eventually, that website guide. The "extras" folder is where you'll (in a future release) find some pre-made goodies, like buttons, headers and even graphs- all made with pure CSS. It's the other part of the framework, and it's a part of Jatsby v0.5 alongside Lato, Jatsby's "signature font". As for "template", that's where you'll find the one HTML and three CSS files that will eventually become your website! It's responsive and ready for your code!
+There's a lot of meaning behind these numbers! Below are the screen widths of some of the world's most-popular gadgets:
 
-The idea is that you'll one day be able to bring code from "extras" into your website in the "template" folder, and then simply move and rename the template folder for use with Apache, etc.
+ 320px - iPhone (4, 4s, 5, 5s)  
+ 375px - iPhone 6  
+ 540px - Nexus 5  
+ 600px - Nexus 7  
+ 720px - Surface Pro 3  
+ 768px - iPad (3, Mini, Air)  
+ 800px - Nexus 10  
+ 960px - Nexus 7 (Landscape)   
+1024px - iPad (Landscape)  
+1200px - Nexus 10 (Landscape)  
+1280px - MacBook Pro 13" (Retina and non-Retina)  
+
+Notice that up to 1200px, a device could be a tablet, hence the 1201+ desktop breakpoint, which is primarily for restricting :hover effects to mouse-and-keyboard computers.
+
+Favicons
+--------
+Favicons should be 32x32px in size, and in PNG format (you can use GIF or ICO, but PNG is best and is already coded in index.html!).
+
+Just place your favicon.png file in the same location as index.html and you're good to go!
+
+Final Thoughts
+--------------
+Remember, Jatsby's in beta! It's not perfect just yet, and it will likely change a lot by the time v1.0 rolls around. 
