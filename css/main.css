@@ -1,0 +1,76 @@
+/* 
+   Jatsby Framework v0.7
+   Originally Released October 22, 2014 
+    under the MIT License
+   Updated January 30, 2015
+   Copyright 2015 Jatsby 
+   http://jatsby.com/
+*/
+
+
+
+/*=======================================*/
+/*             External CSS              */
+/*=======================================*/
+/* Reference external Style Sheets here  */
+/*=======================================*/
+
+/* Breakpoints */
+@import "320.css";
+@import "600.css";
+@import "900.css";
+@import "1201.css";
+
+
+/*=======================================*/
+/*                 Fonts                 */
+/*=======================================*/
+/* Declare or import all fonts here      */
+/*=======================================*/
+
+@charset "UTF-8";
+
+/* Aileron 100-900; normal, italic */
+@import url("https://jatsby.com/aileron.css");
+
+/* Bebas Neue 100-900; normal, italic */
+@import url("https://jatsby.com/bebasNeue.css");
+
+/* Lobster 400; normal */
+@import url("https://fonts.googleapis.com/css?family=Lobster");
+
+/* Lato 100-900; normal, italic */
+@import url("https://jatsby.com/lato.css");
+
+/* Mohave 400, 600, 700; normal, italic */
+@import url("https://jatsby.com/mohave.css");
+
+/* Montserrat 400, 700; normal */
+@import url("https://fonts.googleapis.com/css?family=Montserrat:400,700");
+
+/* Simplifica 400; normal */
+@import url("https://jatsby.com/simplifica.css");
+
+
+/*=======================================*/
+/*                 Reset                 */
+/*=======================================*/
+/* Simple reset parameters               */
+/* Also for custom global declarations   */
+/* (ie, ".roboto" for                    */
+/* font-family:Roboto;)                  */
+/*=======================================*/
+
+*	{
+	padding:0;
+	margin:0 auto;
+	-webkit-font-smoothing:antialiased;
+	-webkit-text-size-adjust: 100%;
+	/* a */
+	text-decoration: none;
+	color:inherit;
+}
+
+html	{
+	
+}
