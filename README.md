@@ -1,15 +1,24 @@
 The Jatsby Web Framework
 ========================
-Jatsby is a minimalist CSS framwork for creating elegant webpages and experimenting with your latest designs. When you have an idea for a button, simply open index.html and jatsby.css and start coding! All the necessities are already there.
+Jatsby is a minimalist CSS framework for creating elegant webpages and experimenting with your latest designs. It comes with four breakpoints, an essential reset CSS block, awesome fonts, and a color palette with today at heart. 
+
+Favicons
+--------
+Favicons should be packaged in a favicon.ico file, which can include multiple resolutions for the various pixel densities out there (retina, 4k, etc.).
+
+Just place your favicon.ico file in the same location as index.html (the root of the framework folder) and you're good to go!
 
 Breakpoints
 ------------
-jatsby.css includes four simple breakpoints for making your website responsive. And if responsive isn't on the agenda, simply stick to the mobile breakpoint.
+jatsby.css includes four simple breakpoints for making your website responsive. And if responsive isn't on the agenda, simply stick to main.css.
 
-mobile: 300px- 599px
-tablet: 600px- 899px
-tablet-wide: 900px-1200px
-desktop: 1201px+
+Each breakpoint has its own CSS file.
+
+main.css - for @imports, reset, and global declarations
+320.css  @ 320px
+600.css  @ 600px
+900.css  @ 900px
+1201.css @ 1201px
 
 There's a lot of meaning behind these numbers! Below are the screen widths of some of the world's most-popular gadgets:
 
@@ -27,12 +36,22 @@ There's a lot of meaning behind these numbers! Below are the screen widths of so
 
 Notice that up to 1200px, a device could be a tablet, hence the 1201+ desktop breakpoint, which is primarily for restricting :hover effects to mouse-and-keyboard computers.
 
-Favicons
---------
-Favicons should be 32x32px in size, and in PNG format (you can use GIF or ICO, but PNG is best and is already coded in index.html!).
+Fonts
+-----
+Jatsby comes with some neat, free-to-use fonts that you can @import from Jatsby.com directly for easy implimentation.
 
-Just place your favicon.png file in the same location as index.html and you're good to go!
+Aileron
+Bebas Neue
+Lato
+Lobster
+Mohave
+Montserrat
+Simplifica
 
-Final Thoughts
+Colors
+------
+These aren't quite finalized, yet, but they will be in a supplimental update to v0.7. In the meantime, you can sip the "beta" colors from jatsby.com to try them out!
+
+Notes
 --------------
-Remember, Jatsby's in beta! It's not perfect just yet, and it will likely change a lot by the time v1.0 rolls around. 
+Remember, Jatsby's in beta! It's not perfect just yet, and it will likely change a lot by the time v1.0 rolls around.
