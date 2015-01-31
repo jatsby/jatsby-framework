@@ -10,15 +10,11 @@ Just place your favicon.ico file in the same location as index.html (the root of
 
 Breakpoints
 ------------
-jatsby.css includes four simple breakpoints for making your website responsive. And if responsive isn't on the agenda, simply stick to main.css.
+jatsby.css includes four simple breakpoints for making your website responsive. And if responsive isn't on the agenda, simply stick to mobile.css' 320px breakpoint.
 
-Each breakpoint has its own CSS file.
-
-main.css - for @imports, reset, and global declarations
-320.css  @ 320px
-600.css  @ 600px
-900.css  @ 900px
-1201.css @ 1201px
+mobile.css - for @imports, reset, and global declarations; 320px breakpoint
+tablet.css - 600px breakpoint
+desktop.css - 900px breakpoint and 1201px breakpoint (for hover effects and other desktop-specific CSS)
 
 There's a lot of meaning behind these numbers! Below are the screen widths of some of the world's most-popular gadgets:
 
