@@ -1,18 +1,33 @@
 /* 
-   Jatsby Framework v0.7.1
-   Originally Released October 22, 2014 
+   Jatsby Framework v0.7.2 (RC1)
+   Released October 22, 2014 
    under the MIT License
-   Updated January 31, 2015
+   Updated February 8, 2015
    Copyright 2015 Jatsby 
-   http://jatsby.com/
+   https://jatsby.com/
 */
+
+
+/*=======================================*/
+/*            600 Breakpoint             */
+/*=======================================*/
+/* 600px- 899px                          */
+/* For tablets in portrait               */
+/* iPad, Nexus 7, Nexus 10               */
+/*=======================================*/
+
+@media (min-width: 600px)	{
+
+
+
+}
 
 
 /*=======================================*/
 /*            900 Breakpoint             */
 /*=======================================*/
 /* 900px- 1200px                         */
-/* For tablets in landscape              */			
+/* For tablets in landscape              */
 /* iPad, Nexus 7, Nexus 10, Surface Pro  */
 /*=======================================*/
 
