@@ -1,6 +1,6 @@
-The Jatsby Web Framework
+Jatsby CSS
 ========================
-Jatsby is a minimalist CSS framework for creating elegant webpages and experimenting with your latest designs. It comes with four breakpoints, an essential reset CSS block, awesome fonts, and a color palette with today at heart. 
+Jatsby CSS is a minimalist CSS framework for creating elegant webpages and experimenting with your latest designs. It comes with four breakpoints, an essential reset CSS block, awesome fonts, and a color palette with today at heart. 
 
 Favicons
 --------
@@ -12,8 +12,8 @@ Breakpoints
 ------------
 Jatsby includes four simple breakpoints for making your website responsive. And if responsive isn't on the agenda, simply stick to main.css' 320px breakpoint.
 
-main.css - for @imports, reset, and global declarations; 320px breakpoint; for the base site code
-specific.css - 600px, 900 and 1201px breakpoints; for specific CSS pertaining to adjustment of responsive elements
+main.css - for @imports, reset, and global declarations; 320px breakpoint; for the base site code.
+specific.css - 600px, 900 and 1201px breakpoints; for specific CSS pertaining to adjustment of responsive elements.
 
 There's a lot of meaning behind these numbers! Below are the screen widths of some of the world's most-popular gadgets:
 
@@ -43,10 +43,8 @@ Mohave
 Montserrat
 Simplifica
 
-Colors
-------
-These aren't quite finalized, yet, but they will be in a supplimental update to v0.7. In the meantime, you can sip the "beta" colors from jatsby.com to try them out!
+Regarding Colors
+----------------
+The same colors shouldn't be used for *every* web project, so why would I imply that with a framework color palette?
+The color palette will be removed from jatsby.com to reflect this once a suitable replacement to that content has been determined.
 
-Notes
---------------
-Remember, Jatsby's in beta! It's not perfect just yet, and it will likely change a lot by the time v1.0 rolls around.
