@@ -1,6 +1,6 @@
 Jatsby CSS
 ========================
-Jatsby CSS is a minimalist CSS framework for creating elegant webpages and experimenting with your latest designs. It comes with four breakpoints, an essential reset CSS block, awesome fonts, and a color palette with today at heart. 
+Jatsby CSS is a simple CSS framework for creating elegant webpages and experimenting with your latest designs. It comes with four breakpoints, an essential reset CSS block, awesome fonts, and a color palette with today at heart. 
 
 Favicons
 --------
@@ -33,7 +33,7 @@ Notice that up to 1200px, a device could be a tablet, hence the 1201+ desktop br
 
 Fonts
 -----
-Jatsby comes with some neat, free-to-use fonts that you can @import from Jatsby.com directly for easy implimentation.
+Jatsby comes with some neat, free-to-use fonts that you can @import from Jatsby and Google Fonts for easy implimentation.
 
 Aileron
 Bebas Neue
@@ -42,9 +42,3 @@ Lobster
 Mohave
 Montserrat
 Simplifica
-
-Regarding Colors
-----------------
-The same colors shouldn't be used for *every* web project, so why would I imply that with a framework color palette?
-The color palette will be removed from jatsby.com to reflect this once a suitable replacement to that content has been determined.
-
