@@ -2,6 +2,8 @@ Jatsby CSS
 ========================
 Jatsby CSS is a simple CSS framework for creating elegant webpages and experimenting with your latest designs. It comes with four breakpoints, an essential reset CSS block, awesome fonts, and a color palette with today at heart. 
 
+It's designed for compatibility with Chrome, FireFox and Safari. Compatibility with Internet Explorer's successor is possible but not guaranteed.
+
 Favicons
 --------
 Favicons should be packaged in a favicon.ico file, which can include multiple resolutions for the various pixel densities out there (retina, 4k, etc.).
@@ -12,8 +14,7 @@ Breakpoints
 ------------
 Jatsby includes four simple breakpoints for making your website responsive. And if responsive isn't on the agenda, simply stick to main.css' 320px breakpoint.
 
-main.css - for @imports, reset, and global declarations; 320px breakpoint; for the base site code.
-specific.css - 600px, 900 and 1201px breakpoints; for specific CSS pertaining to adjustment of responsive elements.
+main.css - for @imports, reset, and global declarations; 320px, 600px, 900px, 1201px breakpoints.
 
 There's a lot of meaning behind these numbers! Below are the screen widths of some of the world's most-popular gadgets:
 
@@ -33,12 +34,12 @@ Notice that up to 1200px, a device could be a tablet, hence the 1201+ desktop br
 
 Fonts
 -----
-Jatsby comes with some neat, free-to-use fonts that you can @import from Jatsby and Google Fonts for easy implimentation.
+Jatsby comes with some neat, free-to-use fonts that you can @import locally and via Google Fonts for easy implimentation.
 
-Aileron
-Bebas Neue
+Aileron (local)
+Bebas Neue (local)
 Lato
 Lobster
-Mohave
+Mohave (local)
 Montserrat
-Simplifica
+Simplifica (local)
