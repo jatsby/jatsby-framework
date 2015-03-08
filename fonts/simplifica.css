@@ -1,0 +1,19 @@
+/*  
+	Jatsby Framework v1.2
+	Released October 22, 2014 under the MIT License
+	Updated March 8, 2015
+	Copyright 2015 Jatsby 
+	Simplifica is a copyright of Iwaszczyszyn Kamil / FONTOM and is 
+	available for use under the FONTOM Free Font End User Agreement
+*/
+
+
+
+/* Simplifica 400 */
+@font-face {
+  font-family: 'Simplifica';
+  font-style: normal;
+  font-weight: 400;
+  src: url(simplifica/SIMPLIFICA%20Typeface.woff2) format('woff2'),
+  	   url(simplifica/SIMPLIFICA%20Typeface.woff) format('woff');
+}

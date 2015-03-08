@@ -1,0 +1,64 @@
+/*  
+	Jatsby Framework v1.2
+	Released October 22, 2014 under the MIT License
+	Updated March 8, 2015
+	Copyright 2015 Jatsby 
+	Mohave is a copyright of Absolut Type Foundry and is 
+	available for use under the Absolut Foundry EULA version 1.0
+*/
+
+
+
+/* Mohave */
+@font-face {
+  font-family: 'Mohave';
+  font-style: normal;
+  font-weight: 400;
+  src: url(mohave/Mohave.woff2) format('woff2'),
+  	   url(mohave/Mohave.woff) format('woff');
+}
+
+/* Mohave Italics */
+@font-face {
+  font-family: 'Mohave';
+  font-style: italic;
+  font-weight: 400;
+  src: url(mohave/Mohave%20Italics.woff2) format('woff2'),
+  	   url(mohave/Mohave%20Italics.woff) format('woff');
+}
+
+/* Mohave 600 */
+@font-face {
+  font-family: 'Mohave';
+  font-style: normal;
+  font-weight: 600;
+  src: url(mohave/Mohave-SemiBold.woff2) format('woff2'),
+  	   url(mohave/Mohave-SemiBold.woff) format('woff');
+}
+
+/* Mohave 600 Italic */
+@font-face {
+  font-family: 'Mohave';
+  font-style: italic;
+  font-weight: 600;
+  src: url(mohave/Mohave-SemiBold%20Italics.woff2) format('woff2'),
+  	   url(mohave/Mohave-SemiBold%20Italics.woff) format('woff');
+}
+
+/* Mohave 700 */
+@font-face {
+  font-family: 'Mohave';
+  font-style: normal;
+  font-weight: 700;
+  src: url(mohave/Mohave-Bold.woff2) format('woff2'),
+  	   url(mohave/Mohave-Bold.woff) format('woff');
+}
+
+/* Mohave 700 Italic */
+@font-face {
+  font-family: 'Mohave';
+  font-style: italic;
+  font-weight: 700;
+  src: url(mohave/Mohave-Bold%20Italics.woff2) format('woff2'),
+  	   url(mohave/Mohave-Bold%20Italics.woff) format('woff');
+}

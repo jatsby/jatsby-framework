@@ -1,8 +1,8 @@
 /* 
-   Jatsby Framework v1.1
+   Jatsby Framework v1.2
    Released October 22, 2014 
    under the MIT License
-   Updated February 26, 2015
+   Updated March 8, 2015
    Copyright 2015 Jatsby 
    https://jatsby.com/
 */
@@ -21,7 +21,7 @@
 @import url("https://jatsby.com/aileron.css");
 
 /* Bebas Neue 100, 200, 300, 400, 600; normal */
-@import url("https://jatsby.com/bebasNeue.css");
+@import url("fonts/bebasNeue.css");
 
 /* Lobster 400; normal */
 @import url("https://fonts.googleapis.com/css?family=Lobster");
@@ -30,84 +30,13 @@
 @import url("https://fonts.googleapis.com/css?family=Lato:100,300,400,700,900,100italic,300italic,400italic,700italic,900italic");
 
 /* Mohave 400, 600, 700; normal, italic */
-@import url("https://jatsby.com/mohave.css");
+@import url("fonts/mohave.css");
 
 /* Montserrat 400, 700; normal */
 @import url("https://fonts.googleapis.com/css?family=Montserrat:400,700");
 
 /* Simplifica 400; normal */
-@import url("https://jatsby.com/simplifica.css");
-
-
-/*=======================================*/
-/*             Color Palette             */
-/*=======================================*/
-/* Keep your colors organized!           */
-/*=======================================*/
-
-/* Red1 */
-.red1-background {background-color: HSL(354, 59%, 62%);}
-.red1 {color: HSL(354, 59%, 62%);}
-
-	/* Red2 */
-	.red2-background {background-color: HSL(354, 79%, 56%);}
-	.red2 {color: HSL(354, 79%, 56%);}
-
-/* Orange1 */
-.orange1-background {background-color: HSL(18, 59%, 62%);}
-.orange1 {color: HSL(18, 59%, 62%);}
-	
-	/* Orange2 */
-	.orange2-background {background-color: HSL(18, 88%, 63%);}
-	.orange2 {color: HSL(18, 88%, 63%);}
-
-/* Yellow1 */
-.yellow1-background {background-color: HSL(65, 59%, 62%);}
-.yellow1 {color: HSL(65, 59%, 62%);}
-
-	/* Yellow2 */
-	.yellow2-background {background-color: HSL(65, 79%, 57%);}
-	.yellow2 {color: HSL(65, 79%, 57%);}
-
-/* Green1 */
-.green1-background {background-color: HSL(161, 57%, 63%);}
-.green1 {color: HSL(161, 57%, 63%);}
-	
-	/* Green2 */
-	.green2-background {background-color: HSL(161, 76%, 57%);}
-	.green2 {color: HSL(161, 76%, 57%);}
-
-/* Blue1 */
-.blue1-background {background-color: HSL(189, 57%, 62%);}
-.blue1 {color: HSL(189, 57%, 62%);}
-
-	/* Blue2 */
-	.blue2-background {background-color: HSL(199, 80%, 60%);}
-	.blue2 {color: HSL(199, 80%, 60%);}
-
-/* Violet1 */
-.violet1-background {background-color: HSL(289, 59%, 62%);}
-.violet1 {color: HSL(289, 59%, 62%);}
-	
-	/* Violet2 */
-	.violet2-background {background-color: HSL(289, 72%, 56%);}
-	.violet2 {color: HSL(289, 72%, 56%);}
-	
-/* Black1 */
-.black1-background {background-color: HSL(0, 0%, 29%);}
-.black1 {color: HSL(0, 0%, 29%);}
-
-	/* Black2 */
-	.black2-background {background-color: HSL(0, 0%, 22%);}
-	.black2 {color: HSL(0, 0%, 22%);}
-
-/* White1 */
-.white1-background {background-color: HSL(0, 0%, 90%);}
-.white1 {color: HSL(0, 0%, 90%);}
-	
-	/* White2 */
-	.white2-background {background-color: HSL(0, 0%, 94%);}
-	.white2 {color: HSL(0, 0%, 94%);}
+@import url("fonts/simplifica.css");
 
 
 /*=======================================*/
@@ -124,6 +53,7 @@
 	margin:0 auto;
 	-webkit-font-smoothing:antialiased;
 	-webkit-text-size-adjust: 100%;
+	text-rendering: geometricPrecision;
 	/* a */
 	text-decoration: none;
 	color:inherit;
@@ -131,6 +61,8 @@
 	/* Responsive Transition Effects */
 	-webkit-transition-duration:0.5s;
 	-webkit-transform: rotate3d(0,0,0);
+	-moz-transition-duration: 0.5s;
+	-moz-transform: rotate3d(0,0,0);
 }
 
 html	{
@@ -147,7 +79,52 @@ html	{
 /*=======================================*/
 
 @media (min-width: 320px)	{
+		
 	
+	
+}
 
-	
+
+/*=======================================*/
+/*            600 Breakpoint             */
+/*=======================================*/
+/* 600px- 899px                          */
+/* For tablets in portrait               */
+/* iPad, Nexus 7, Nexus 10               */
+/*=======================================*/
+
+@media (min-width: 600px)	{
+
+
+
+}
+
+
+/*=======================================*/
+/*            900 Breakpoint             */
+/*=======================================*/
+/* 900px- 1200px                         */
+/* For tablets in landscape              */
+/* iPad, Nexus 7, Nexus 10, Surface Pro  */
+/*=======================================*/
+
+@media (min-width: 900px)	{
+
+
+
+}
+
+
+/*=======================================*/
+/*            1201 Breakpoint            */
+/*=======================================*/
+/* 1201px+                               */
+/* For full-size computers               */
+/* MacBook Pro, iMac                     */
+/*=======================================*/
+   
+@media (min-width: 1201px)	{
+
+
+
 }

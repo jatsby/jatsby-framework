@@ -1,0 +1,154 @@
+/*  
+	Jatsby Framework v1.2
+	Released October 22, 2014 under the MIT License
+	Updated March 8, 2015
+	Copyright 2015 Jatsby 
+	Aileron is a copyright of no one and is
+	available for use under Public Domain
+*/
+
+
+
+/* Aileron 100 */
+@font-face {
+  font-family: 'Aileron';
+  font-style: normal;
+  font-weight: 100;
+  src: url(aileron/aileron100.woff2) format('woff2'),
+       url(aileron/aileron100.woff) format('woff');
+}
+
+/* Aileron 100 (Italic) */
+@font-face {
+  font-family: 'Aileron';
+  font-style: italic;
+  font-weight: 100;
+  src: url(aileron/aileron100i.woff2) format('woff2'),
+       url(aileron/aileron100i.woff) format('woff');
+}
+
+/* Aileron 200 */
+@font-face {
+  font-family: 'Aileron';
+  font-style: normal;
+  font-weight: 200;
+  src: url(aileron/aileron200.woff2) format('woff2'),
+       url(aileron/aileron200.woff) format('woff');
+}
+
+/* Aileron 200 (Italic) */
+@font-face {
+  font-family: 'Aileron';
+  font-style: italic;
+  font-weight: 200;
+  src: url(aileron/aileron200i.woff2) format('woff2'),
+       url(aileron/aileron200i.woff) format('woff');
+}
+
+/* Aileron 300 */
+@font-face {
+  font-family: 'Aileron';
+  font-style: normal;
+  font-weight: 300;
+  src: url(aileron/aileron300.woff2) format('woff2'),
+       url(aileron/aileron300.woff) format('woff');
+}
+
+/* Aileron 300 (Italic) */
+@font-face {
+  font-family: 'Aileron';
+  font-style: italic;
+  font-weight: 300;
+  src: url(aileron/aileron300i.woff2) format('woff2'),
+       url(aileron/aileron300i.woff) format('woff');
+}
+
+/* Aileron 400 */
+@font-face {
+  font-family: 'Aileron';
+  font-style: normal;
+  font-weight: 400;
+  src: url(aileron/aileron400.woff2) format('woff2'),
+       url(aileron/aileron400.woff) format('woff');
+}
+
+/* Aileron 400 (Italic) */
+@font-face {
+  font-family: 'Aileron';
+  font-style: italic;
+  font-weight: 400;
+  src: url(aileron/aileron400i.woff2) format('woff2'),
+       url(aileron/aileron400i.woff) format('woff');
+}
+
+/* Aileron 600 */
+@font-face {
+  font-family: 'Aileron';
+  font-style: normal;
+  font-weight: 600;
+  src: url(aileron/aileron600.woff2) format('woff2'),
+       url(aileron/aileron600.woff) format('woff');
+}
+
+/* Aileron 600 (Italic) */
+@font-face {
+  font-family: 'Aileron';
+  font-style: italic;
+  font-weight: 600;
+  src: url(aileron/aileron600i.woff2) format('woff2'),
+       url(aileron/aileron600i.woff) format('woff');
+}
+
+/* Aileron 700 */
+@font-face {
+  font-family: 'Aileron';
+  font-style: normal;
+  font-weight: 700;
+  src: url(aileron/aileron700.woff2) format('woff2'),
+       url(aileron/aileron700.woff) format('woff');
+}
+
+/* Aileron 700 (Italic) */
+@font-face {
+  font-family: 'Aileron';
+  font-style: italic;
+  font-weight: 700;
+  src: url(aileron/aileron700i.woff2) format('woff2'),
+       url(aileron/aileron700i.woff) format('woff');
+}
+
+/* Aileron 800 */
+@font-face {
+  font-family: 'Aileron';
+  font-style: normal;
+  font-weight: 800;
+  src: url(aileron/aileron800.woff2) format('woff2'),
+       url(aileron/aileron800.woff) format('woff');
+}
+
+/* Aileron 800 (Italic) */
+@font-face {
+  font-family: 'Aileron';
+  font-style: italic;
+  font-weight: 800;
+  src: url(aileron/aileron800i.woff2) format('woff2'),
+       url(aileron/aileron800i.woff) format('woff');
+}
+
+/* Aileron 900 */
+@font-face {
+  font-family: 'Aileron';
+  font-style: normal;
+  font-weight: 900;
+  src: url(aileron/aileron900.woff2) format('woff2'),
+       url(aileron/aileron900.woff) format('woff');
+}
+
+/* Aileron 900 (Italic) */
+@font-face {
+  font-family: 'Aileron';
+  font-style: italic;
+  font-weight: 900;
+  src: url(aileron/aileron900i.woff2) format('woff2'),
+       url(aileron/aileron900i.woff) format('woff');
+}

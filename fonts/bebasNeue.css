@@ -1,0 +1,55 @@
+/*  
+	Jatsby Framework v1.2
+	Released October 22, 2014 under the MIT License
+	Updated March 8, 2015
+	Copyright 2015 Jatsby 
+	Bebas Neue is a copyright of Svetoslav Simov / FontFabric
+	and is available for use under the FFF EULA version 1.0
+*/
+
+
+
+/* Bebas Neue Thin */
+@font-face {
+  font-family: 'Bebas Neue';
+  font-style: normal;
+  font-weight: 100;
+  src: url(bebasNeue/BebasNeue%20Thin.woff2) format('woff2'),
+  	   url(bebasNeue/BebasNeue%20Thin.woff) format('woff');
+}
+
+/* Bebas Neue Light */
+@font-face {
+  font-family: 'Bebas Neue';
+  font-style: normal;
+  font-weight: 200;
+  src: url(bebasNeue/BebasNeue%20Light.woff2) format('woff2'),
+  	   url(bebasNeue/BebasNeue%20Light.woff) format('woff');
+}
+
+/* Bebas Neue Book */
+@font-face {
+  font-family: 'Bebas Neue';
+  font-style: normal;
+  font-weight: 300;
+  src: url(bebasNeue/BebasNeue%20Book.woff2) format('woff2'),
+  	   url(bebasNeue/BebasNeue%20Book.woff) format('woff');
+}
+
+/* Bebas Neue Regular */
+@font-face {
+  font-family: 'Bebas Neue';
+  font-style: normal;
+  font-weight: 400;
+  src: url(bebasNeue/BebasNeue%20Regular.woff2) format('woff2'),
+  	   url(bebasNeue/BebasNeue%20Regular.woff) format('woff');
+}
+
+/* Bebas Neue Bold */
+@font-face {
+  font-family: 'BebasNeue Thin';
+  font-style: normal;
+  font-weight: 600;
+  src: url(bebasNeue/BebasNeue%20Bold.woff2) format('woff2'),
+  	   url(bebasNeue/BebasNeue%20Bold.woff) format('woff');
+}
