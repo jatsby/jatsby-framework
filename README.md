@@ -14,7 +14,7 @@ Breakpoints
 ------------
 Jatsby includes four simple breakpoints for making your website responsive. And if responsive isn't on the agenda, simply stick to main.css' 320px breakpoint.
 
-main.css - for @imports, reset, and global declarations; 320px, 600px, 900px, 1201px breakpoints.
+main.css - for @imports, reset, and global declarations; 320px, 600px, 900px, 1025px breakpoints.
 
 There's a lot of meaning behind these numbers! Below are the screen widths of some of the world's most-popular gadgets:
 
@@ -27,10 +27,11 @@ There's a lot of meaning behind these numbers! Below are the screen widths of so
  800px - Nexus 10  
  960px - Nexus 7 (Landscape)   
 1024px - iPad (Landscape)  
+1152px - 2015 MacBook
 1200px - Nexus 10 (Landscape)  
 1280px - MacBook Pro 13" (Retina and non-Retina)  
 
-Notice that up to 1200px, a device could be a tablet, hence the 1201+ desktop breakpoint, which is primarily for restricting :hover effects to mouse-and-keyboard computers.
+Notice that up to 1024px, a device could be a tablet (with the exception of the Nexus 10), hence the 1025+ desktop breakpoint, which is primarily for restricting :hover effects to mouse-and-keyboard computers.
 
 Fonts
 -----
@@ -38,8 +39,8 @@ Jatsby comes with some neat, free-to-use fonts that you can @import locally and 
 
 Aileron (local)
 Bebas Neue (local)
-Lato
-Lobster
+Lato (Google Fonts)
+Lobster (Google Fonts)
 Mohave (local)
-Montserrat
+Montserrat (Google Fonts)
 Simplifica (local)
