@@ -1,7 +1,7 @@
 /* 
-   Jatsby Framework v1.2.1
+   Jatsby Framework v1.2.2
    Released October 22, 2014 under the MIT License
-   Updated March 9, 2015
+   Updated March 15, 2015
    Copyright 2015 Jatsby 
    https://jatsby.com/
 */
@@ -17,7 +17,7 @@
 @charset "UTF-8";
 
 /* Aileron 100-900; normal, italic */
-@import url("https://jatsby.com/aileron.css");
+@import url("fonts/aileron.css");
 
 /* Bebas Neue 100, 200, 300, 400, 600; normal */
 @import url("fonts/bebasNeue.css");
