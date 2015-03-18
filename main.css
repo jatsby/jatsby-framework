@@ -1,18 +1,19 @@
 /* 
-   Jatsby Framework v1.2.2
-   Released October 22, 2014 under the MIT License
-   Updated March 15, 2015
+   Jatsby Framework v1.2.4
+   Released October 22, 2014 
+    under the MIT License
+   Updated March 18, 2015
    Copyright 2015 Jatsby 
-   http://jatsby.com/
+   https://jatsby.com/
 */
 
 
 
-/*=======================================*/
-/*                Imports                */
-/*=======================================*/
-/* Import fonts, CSS files here          */
-/*=======================================*/
+/*==================================*/
+/*             Imports              */
+/*==================================*/
+/* Import fonts, CSS files here     */
+/*==================================*/
 
 @charset "UTF-8";
 
@@ -37,15 +38,19 @@
 /* Simplifica 400; normal */
 @import url("fonts/simplifica.css");
 
+/* Source Sans Pro 200-400, 600, 700, 900; normal, italic */
+@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,600,700,900,200italic,300italic,400italic,600italic,700italic,900italic");
 
-/*=======================================*/
-/*                 Reset                 */
-/*=======================================*/
-/* Simple reset parameters               */
-/* Also for custom global declarations   */
-/* (ie, ".roboto" for                    */
-/* font-family:Roboto;)                  */
-/*=======================================*/
+
+/*==================================*/
+/*              Reset               */
+/*==================================*/
+/* Simple reset parameters          */
+/* Also for custom global           */
+/*  declarations                    */
+/* (ie, ".roboto" for               */
+/*  font-family:Roboto;)            */
+/*==================================*/
 
 *	{
 	padding:0;
@@ -53,7 +58,6 @@
 	-webkit-font-smoothing:antialiased;
 	-webkit-text-size-adjust: 100%;
 	text-rendering: geometricPrecision;
-	/* a */
 	text-decoration: none;
 	color:inherit;
 	line-height: normal;
@@ -68,61 +72,57 @@ html	{
 	
 }
 
-
-/*=======================================*/
-/*            320 Breakpoint             */
-/*=======================================*/
-/* 320px- 599px                          */
-/* For small devices                     */
-/* iPhone, iPod Touch, Nexus 5           */
-/*=======================================*/
-
-@media (min-width: 320px)	{
-		
+/*==================================*/
+/*          320 Breakpoint          */
+/*==================================*/
+/* 320px- 599px                     */
+/* For small devices                */
+/* iPhone, iPod Touch, Nexus 5      */
+/*==================================*/
+@media (min-width: 320px)           {
+/*==================================*/		
 	
-	
-}
-
-
-/*=======================================*/
-/*            600 Breakpoint             */
-/*=======================================*/
-/* 600px- 899px                          */
-/* For tablets in portrait               */
-/* iPad, Nexus 7, Nexus 10               */
-/*=======================================*/
-
-@media (min-width: 600px)	{
-
 
 
 }
 
-
-/*=======================================*/
-/*            900 Breakpoint             */
-/*=======================================*/
-/* 900px- 1024px                         */
-/* For tablets in landscape              */
-/* iPad, Nexus 7, Nexus 10, Surface Pro  */
-/*=======================================*/
-
-@media (min-width: 900px)	{
+/*==================================*/
+/*          600 Breakpoint          */
+/*==================================*/
+/* 600px- 899px                     */
+/* For tablets in portrait          */
+/* iPad, Nexus 7, Nexus 10          */
+/*==================================*/
+@media (min-width: 600px)           {	
+/*==================================*/
 
 
 
 }
 
+/*==================================*/
+/*          900 Breakpoint          */
+/*==================================*/
+/* 900px- 1024px                    */
+/* For tablets in landscape         */
+/* iPad, Nexus 7+10, Surface Pro    */
+/*==================================*/
+@media (min-width: 900px)           {
+/*==================================*/
 
-/*=======================================*/
-/*            1025 Breakpoint            */
-/*=======================================*/
-/* 1025px+                               */
-/* For full-size computers               */
-/* MacBook Pro, iMac, 2015 MacBook       */
-/*=======================================*/
-   
-@media (min-width: 1025px)	{
+
+
+}
+
+/*==================================*/
+/*         1025 Breakpoint          */
+/*==================================*/
+/* 1025px+                          */
+/* For full-size computers          */
+/* MacBook Pro, iMac, 2015 MacBook  */
+/*==================================*/
+@media (min-width: 1025px)          {
+/*==================================*/
 
 
 
