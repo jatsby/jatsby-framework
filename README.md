@@ -1,8 +1,8 @@
-Jatsby CSS
+Jatsby
 ========================
-Jatsby CSS is a simple CSS framework for creating elegant webpages and experimenting with your latest designs. It comes with four breakpoints, an essential reset CSS block, awesome fonts, and a color palette with today at heart. 
+Jatsby is a simple CSS framework for creating elegant webpages and experimenting with your latest designs. It comes with four breakpoints, an essential reset CSS block, awesome fonts, and a color palette with today at heart. 
 
-It's designed for compatibility with Chrome, FireFox and Safari. Compatibility with Internet Explorer's successor is possible but not guaranteed.
+It's designed for compatibility with Chrome, FireFox and Safari. Compatibility with Internet Explorer's successor is possible but not guaranteed (yet!)
 
 Favicons
 --------
@@ -44,3 +44,4 @@ Lobster (Google Fonts)
 Mohave (local)
 Montserrat (Google Fonts)
 Simplifica (local)
+Source Sans Pro (Google Fonts)
