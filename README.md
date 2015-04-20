@@ -26,9 +26,9 @@ There's a lot of meaning behind these numbers! Below are the screen widths of so
  768px - iPad (3, Mini, Air)  
  800px - Nexus 10  
  960px - Nexus 7 (Landscape)   
-1024px - iPad (Landscape)  
-1152px - 2015 MacBook
-1200px - Nexus 10 (Landscape)  
+1024px - iPad (Landscape)
+-1152px - 2015 MacBook
+1200px - Nexus 10 (Landscape)
 1280px - MacBook Pro 13" (Retina and non-Retina)  
 
 Notice that up to 1024px, a device could be a tablet (with the exception of the Nexus 10), hence the 1025+ desktop breakpoint, which is primarily for restricting :hover effects to mouse-and-keyboard computers.
