@@ -27,7 +27,7 @@ There's a lot of meaning behind these numbers! Below are the screen widths of so
  800px - Nexus 10  
  960px - Nexus 7 (Landscape)   
 1024px - iPad (Landscape)  
--1152px - 2015 MacBook  
+1152px - 2015 MacBook  
 1200px - Nexus 10 (Landscape)  
 1280px - MacBook Pro 13" (Retina and non-Retina)  
 
