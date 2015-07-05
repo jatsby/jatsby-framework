@@ -1,12 +1,11 @@
 /* 
-   Jatsby Framework v1.2.5
+   Jatsby Framework v1.3.0
    Released October 22, 2014 
     under the MIT License
-   Updated March 25, 2015
+   Updated July 5, 2015
    Copyright 2015 Jatsby 
    https://jatsby.com/
 */
-
 
 
 /*==================================*/
@@ -43,6 +42,23 @@
 
 
 /*==================================*/
+/*             Colors               */
+/*==================================*/
+/* Variable declarations for the    */
+/* Jatsby color palette	            */
+/*==================================*/
+
+$jatsbyRed: #EB575A;
+$jatsbyOrange: #EB955C;
+$jatsbyYellow: #EDDE66;
+$jatsbyGreen: #79E3A8;
+$jatsbyBlue: #74D7C7;
+$jatsbyPurple: #DE83DA;
+$jatsbyWhite: #F9F9F9;
+$jatsbyBlack: #626262;
+
+
+/*==================================*/
 /*              Reset               */
 /*==================================*/
 /* Simple reset parameters          */
@@ -69,7 +85,7 @@
 }
 
 html	{
-	
+
 }
 
 /*==================================*/
@@ -119,3 +135,5 @@ html	{
 /*==================================*/
 
 
+
+}
