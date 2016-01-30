@@ -2,7 +2,7 @@ Jatsby
 ========================
 Jatsby is a simple CSS framework for creating elegant webpages and experimenting with your latest designs. It comes with four breakpoints, a simple-but-effective reset CSS block called Rasa (available standalone), awesome fonts, and a diverse color palette.
 
-It's designed with Chrome, FireFox and Safari in mind and meant to suppliment client-side Js frameworks that lack a proper UI element, like Ember and Angular. 
+It's designed with Chrome, FireFox and Safari in mind and meant to suppliment client-side Js frameworks that lack a proper UI element, like Ember and Angular. We're thinking of calling it a "UI Framework".
 
 
 Breakpoints
