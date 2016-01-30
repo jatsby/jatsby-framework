@@ -1,14 +1,9 @@
 Jatsby
 ========================
-Jatsby is a simple CSS framework for creating elegant webpages and experimenting with your latest designs. It comes with four breakpoints, an essential reset CSS block, awesome fonts, and a color palette with today at heart. 
+Jatsby is a simple CSS framework for creating elegant webpages and experimenting with your latest designs. It comes with four breakpoints, a simple-but-effective reset CSS block called Rasa (available standalone), awesome fonts, and a diverse color palette.
 
-It's designed for compatibility with Chrome, FireFox and Safari. Compatibility with Internet Explorer's successor is possible but not guaranteed (yet!)
+It's designed with Chrome, FireFox and Safari in mind and meant to suppliment client-side frameworks like Ember and Angular. 
 
-Favicons
---------
-Favicons should be packaged in a favicon.ico file, which can include multiple resolutions for the various pixel densities out there (retina, 4k, etc.).
-
-Just place your favicon.ico file in the same location as index.html (the root of the framework folder) and you're good to go!
 
 Breakpoints
 ------------
@@ -43,5 +38,5 @@ Lato (Google Fonts)
 Lobster (Google Fonts)
 Mohave (local)
 Montserrat (Google Fonts)
-Simplifica (local)
+Roboto (Google Fonts)
 Source Sans Pro (Google Fonts)
