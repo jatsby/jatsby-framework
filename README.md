@@ -1,13 +1,13 @@
-Jatsby
+Éclair
 ========================
-Jatsby is a simple CSS framework for creating elegant webpages and experimenting with your latest designs. It comes with four breakpoints, a simple-but-effective reset CSS block called Rasa (available standalone), awesome fonts, and a diverse color palette.
+Éclair (or Eclair) is a simple web "UI Framework" for creating elegant webpages and experimenting with your latest designs. It comes with four breakpoints, a simple-but-effective reset CSS block called Rasa (available standalone), awesome fonts, and a diverse color palette.
 
-It's designed with Chrome, FireFox and Safari in mind and meant to suppliment client-side Js frameworks that lack a proper UI element, like Ember and Angular. We're thinking of calling it a "UI Framework".
+It's designed with Chrome, FireFox and Safari in mind and meant to suppliment client-side Js frameworks that lack a proper UI element, like Ember and Angular.
 
 
 Breakpoints
 ------------
-Jatsby includes four simple breakpoints for making your website responsive. And if responsive isn't on the agenda, simply stick to main.css' 320px breakpoint.
+Eclair includes four simple breakpoints for making your website responsive. And if responsive isn't on the agenda, simply stick to main.css' 320px breakpoint.
 
 main.css - for @imports, reset, and global declarations; 320px, 600px, 900px, 1025px breakpoints.
 
@@ -30,7 +30,7 @@ Notice that up to 1024px, a device could be a tablet (with the exception of the 
 
 Fonts
 -----
-Jatsby comes with some neat, free-to-use fonts that you can @import locally and via Google Fonts for easy implimentation.
+Eclair comes with some neat, free-to-use fonts that you can @import locally and via Google Fonts for easy implimentation.
 
 Aileron (local)
 Bebas Neue (local)
